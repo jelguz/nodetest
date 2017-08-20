@@ -1,0 +1,18 @@
+{
+  "name": "navtest",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "jel",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.6",
+    "ejs": "^2.5.7",
+    "express": "^4.15.4"
+  },
+  "devDependencies": {}
+}
